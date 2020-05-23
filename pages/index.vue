@@ -99,7 +99,7 @@ export default {
 
 <style>
 .container {
-  margin: 0 auto;
+  margin: 20px 20px 20px 20px;
   min-height: 100vh;
   display: flex;
   justify-content: center;
