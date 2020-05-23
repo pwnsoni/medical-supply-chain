@@ -99,12 +99,12 @@ export default {
 
 <style>
 .container {
-  margin: 20px 20px 20px 20px;
+  margin: 20% 20% 20% 20%x;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
+  text-align: center; 
 }
 
 .title {
